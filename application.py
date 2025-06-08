@@ -6,7 +6,7 @@ import google.generativeai as genai
 from collections import Counter
 import numpy as np
 
-# Config
+# Config 
 IMAGE_PATH = os.path.join(os.path.dirname(__file__), "WhatsApp Image 2025-06-08 at 22.47.02_244ecbae.jpg")
 ROBOFLOW_KEY = "aWlghc6MlyWbG65M1SM1"
 GEMINI_KEY   = "AIzaSyARrgNRAyYn2J31TKTAjz1cXN0ZMnYBA88"          # generated in AI Studio / MakerSuite
